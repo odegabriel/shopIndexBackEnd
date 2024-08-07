@@ -1,0 +1,6 @@
+@MyProjectWithoutDocker_HostAddress = http://localhost:5186
+
+GET {{MyProjectWithoutDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
